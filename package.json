@@ -1,0 +1,31 @@
+{
+  "name": "req-head-parser",
+  "version": "1.0.0",
+  "description": "a request header parser microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkdrichardson/req-head-parser.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "microservice",
+    "free",
+    "code",
+    "camp"
+  ],
+  "author": "Kirk D Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkdrichardson/req-head-parser/issues"
+  },
+  "homepage": "https://github.com/kirkdrichardson/req-head-parser#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
