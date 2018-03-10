@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/kirkdrichardson/req-head-parser#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "ua-parser-js": "^0.7.17"
   }
 }
